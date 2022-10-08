@@ -6,4 +6,6 @@ Install the project dependencies using the command:
 Start the project using:
 `npm start`
 
-The ToDo app will be live on http://localhost:3000
+The URL shortener app will be live on http://localhost:3000
+
+Live demo of this app is available at https://prismatic-tulumba-16f578.netlify.app/
